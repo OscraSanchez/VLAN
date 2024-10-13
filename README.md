@@ -9,8 +9,13 @@ Una VLAN es una tecnología de red que permite crear redes lógicamente independ
 
 ## Como poner VLANs en Packet Tracer
 1. Primero tenemos que crear una red.
-<img src="https://github.com/OscraSanchez/VLAN/blob/main/vlan1.png" width="100" height="90">|
+
+<img src="https://github.com/OscraSanchez/VLAN/blob/main/vlan1.png" width="150" height="140">
+
 2. Luego nos vamos a el Swich o Router y abrimos la configuración de VLAN.
-<img src="https://github.com/OscraSanchez/VLAN/blob/main/vlan2.png" width="70" height="60">|
+
+<img src="https://github.com/OscraSanchez/VLAN/blob/main/vlan2.png" width="180" height="160">
+
 3. Dentro de la configuración de VLAN en "VLAN Number" ponemos el numero de IP apartir del que queremos que empiece la división de red, en "VLAN Name" el nombre que queremos ponerle i le damos a "Add" para crear la VLAN.
-<img src="https://github.com/OscraSanchez/VLAN/blob/main/vlan3.png" width="70" height="50">|
+
+<img src="https://github.com/OscraSanchez/VLAN/blob/main/vlan3.png" width="120" height="100">
